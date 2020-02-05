@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucifer.w/Documents/573/Assignment1/Q1/Algorithm.h
+Timer.h
+/Users/lucifer.w/Documents/573/Assignment1/Q1/Timer.h
+iostream
+-
+vector
+-
+fstream
+-
+
+/Users/lucifer.w/Documents/573/Assignment1/Q1/Timer.h
+time.h
+-
+
+/Users/lucifer.w/Documents/573/Assignment1/Q1/main.cpp
+Algorithm.h
+/Users/lucifer.w/Documents/573/Assignment1/Q1/Algorithm.h
+vector
+-
+string
+-
+iostream
+-
+
