@@ -6,6 +6,30 @@
 
 #IncludeRegexTransform: 
 
+/Users/lucifer.w/Documents/573/Homework1/Q2/Timer.h
+time.h
+-
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/main.cpp
+Timer.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/Timer.h
+quickFind.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.h
+quickUnion.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickUnion.h
+weightedQuickUnion.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/weightedQuickUnion.h
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+sstream
+-
+
 /Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.cpp
 quickFind.h
 /Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.h

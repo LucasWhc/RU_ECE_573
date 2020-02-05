@@ -18,15 +18,12 @@ int main() {
     ifstream ifs;
     string line;
     int dataBit;
-    //This string can be changed according to the location where the user stores the file
-    string preFileName = "/Users/lucifer.w/Documents/573/Homework1/DataSet/hw1-1.data/";
-    string postFileName = "int.txt";
-    vector<int> fileList = {8, 32, 128, 512, 1024, 4096, 4192, 8192};
+
+    vector<string> fileList = {"8int.txt", "32int.txt", "128int.txt", "512int.txt",
+                            "1042int.txt", "4096int.txt", "4192int.txt", "8192int.txt"};
 
     for (int i = 0; i < fileList.size(); i++) {
-        string file = to_string(fileList[i]) + postFileName;
-        string fileName = preFileName + file;
-        ifs.open(fileName, ios_base::in);
+        ifs.open(fileList[i], ios_base::in);
 
         //Check if there is any error when opening files
         if (!ifs.is_open() || ifs.fail()) {

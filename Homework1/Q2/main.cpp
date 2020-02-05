@@ -19,16 +19,13 @@ int main() {
     string line;
     int dataBitP;
     int dataBitQ;
-    string preFileName = "/Users/lucifer.w/Documents/573/Homework1/DataSet/hw1-2.data/";
-    string postFileName = "pair.txt";
-    vector<int> fileList = {8, 32, 128, 512, 1024, 4096, 8192};
+    vector<string> fileList = {"8pair.txt", "32pair.txt", "128pair.txt", "512pair.txt",
+                               "1024pair.txt", "4096pair.txt", "8192pair.txt"};
 
     for (int i = 0; i < fileList.size(); i++) {
-        string file = to_string(fileList[i]) + postFileName;
-        string fileName = preFileName + file;
-        ifs.open(fileName, ios_base::in);
+        ifs.open(fileList[i], ios_base::in);
         if (!ifs.is_open() || ifs.fail()) {
-            throw "Error! Cannot open this file!";
+            cout << "Error! Cannot open this file!" << endl;
         } else {
             while (getline(ifs, line)) {
                 stringstream ss(line);
@@ -49,11 +46,10 @@ int main() {
     for (int i = 0; i < fileList.size(); i++) {
         vector<int> p = dataList[i * 2];
         vector<int> q = dataList[i * 2 + 1];
-        const int MAX = 8192;
-        int N = fileList[i];
+        int N = stoi(fileList[i]);
 
         //quickFind
-        quickFind Find(N, MAX);
+        quickFind Find(N);
         Timer timer1;
         for (int j = 0; j < N; j++) {
             if (!Find.Connected(p[j], q[j])) {
@@ -64,7 +60,7 @@ int main() {
         cout << "The run time cost of quick find is " << runTime1 << " ms." << endl;
 
         //quickUnion
-        quickUnion Union(N, MAX);
+        quickUnion Union(N);
         Timer timer2;
         for (int j = 0; j < N; j++) {
             if (!Union.Connected(p[j], q[j])) {
@@ -75,7 +71,7 @@ int main() {
         cout << "The run time cost of quick union is " << runTime2 << " ms." << endl;
 
         //weightedQuickUnion
-        weightedQuickUnion weightedUnion(N, MAX);
+        weightedQuickUnion weightedUnion(N);
         Timer timer3;
         for(int j = 0; j < N; j++) {
             if (!weightedUnion.Connected(p[j], q[j])) {

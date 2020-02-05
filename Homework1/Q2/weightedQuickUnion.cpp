@@ -4,10 +4,7 @@
 
 #include "weightedQuickUnion.h"
 
-weightedQuickUnion::weightedQuickUnion(int N, int Max) {
-    if (N > Max) {
-            throw "Excess limited!";
-    }
+weightedQuickUnion::weightedQuickUnion(int N) {
     id = new int[N];
     sz = new int[N];
     for (int i = 0; i < N; i++)  //set id each object to itself

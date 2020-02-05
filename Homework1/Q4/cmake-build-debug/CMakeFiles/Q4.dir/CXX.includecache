@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/lucifer.w/Documents/573/Homework1/Q4/Algorithm.cpp
+Algorithm.h
+/Users/lucifer.w/Documents/573/Homework1/Q4/Algorithm.h
+
 /Users/lucifer.w/Documents/573/Homework1/Q4/Algorithm.h
 Timer.h
 /Users/lucifer.w/Documents/573/Homework1/Q4/Timer.h
@@ -15,6 +19,10 @@ vector
 -
 float.h
 -
+
+/Users/lucifer.w/Documents/573/Homework1/Q4/Timer.cpp
+Timer.h
+/Users/lucifer.w/Documents/573/Homework1/Q4/Timer.h
 
 /Users/lucifer.w/Documents/573/Homework1/Q4/Timer.h
 time.h

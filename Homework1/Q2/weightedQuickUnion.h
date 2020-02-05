@@ -13,7 +13,7 @@ using namespace std;
 class weightedQuickUnion {
 public:
     //Some codes are original from the course slides
-    weightedQuickUnion(int N, int Max);
+    weightedQuickUnion(int N);
 
     virtual ~weightedQuickUnion();
 

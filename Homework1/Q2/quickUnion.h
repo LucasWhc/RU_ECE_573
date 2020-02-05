@@ -13,7 +13,7 @@ using namespace std;
 class quickUnion {
 public:
     //Some codes are original from the course slides
-    quickUnion(int N, int Max);
+    quickUnion(int N);
 
     virtual ~quickUnion();
 

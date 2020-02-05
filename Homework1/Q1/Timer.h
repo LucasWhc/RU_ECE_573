@@ -16,7 +16,7 @@ public:
     double Counter();
 
 private:
-    clock_t start, end;
+    clock_t t1, t2;
 };
 
 

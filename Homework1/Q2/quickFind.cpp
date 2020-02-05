@@ -4,10 +4,7 @@
 
 #include "quickFind.h"
 
-quickFind::quickFind(int N, int Max) {
-    if (N > Max) {
-            cout << "Excess limited!" << endl;
-    }
+quickFind::quickFind(int N) {
     length = N;
     id = new int[N];
     for (int i = 0; i < N; i++)  //set id each object to itself

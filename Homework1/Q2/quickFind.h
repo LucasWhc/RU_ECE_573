@@ -13,7 +13,7 @@ using namespace std;
 class quickFind {
 public:
     //Some codes are original from the course slides
-    quickFind(int N, int Max);
+    quickFind(int N);
 
     virtual ~quickFind();
 

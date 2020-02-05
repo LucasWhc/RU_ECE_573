@@ -4,10 +4,7 @@
 
 #include "quickUnion.h"
 
-quickUnion::quickUnion(int N, int Max) {
-    if (N > Max) {
-            throw "Excess limited!";
-    }
+quickUnion::quickUnion(int N) {
     id = new int[N];
     for (int i = 0; i < N; i++)  //set id each object to itself
     {

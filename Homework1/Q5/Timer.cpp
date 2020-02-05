@@ -5,13 +5,13 @@
 #include "Timer.h"
 
 Timer::Timer() {
-    start = clock();
+    t1 = clock();
 }
 
 Timer::~Timer() {}
 
 double Timer::Counter() {
-    end = clock();
-    double time = end - start;
+    t2 = clock();
+    double time = t2 - t1;
     return time / CLOCKS_PER_SEC * 1000;
 }
