@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.cpp
+quickFind.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.h
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickFind.h
+iostream
+-
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickUnion.cpp
+quickUnion.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickUnion.h
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/quickUnion.h
+iostream
+-
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/weightedQuickUnion.cpp
+weightedQuickUnion.h
+/Users/lucifer.w/Documents/573/Homework1/Q2/weightedQuickUnion.h
+
+/Users/lucifer.w/Documents/573/Homework1/Q2/weightedQuickUnion.h
+iostream
+-
+

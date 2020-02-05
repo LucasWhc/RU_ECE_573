@@ -1,0 +1,3 @@
+/Users/lucifer.w/Documents/573/Homework1/Q4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lucifer.w/Documents/573/Homework1/Q4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucifer.w/Documents/573/Homework1/Q4/cmake-build-debug/CMakeFiles/Q4.dir

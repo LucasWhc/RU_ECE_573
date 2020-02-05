@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Q5" targetName="Q5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b64b51b-4972-4e05-89ea-ad97238477a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Homework1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/Algorithm.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/Algorithm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/Algorithm.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/Algorithm.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/fileReader.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/Q1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/Q1" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/Q1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/cmake-build-debug/Q1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/cmake-build-debug/Q1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/fileReader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/fileReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/quickFind.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/quickFind.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/quickUnion.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/quickUnion.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/weightedQuickUnion.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/Q2.dir/weightedQuickUnion.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/Q2" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/Q2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/cmake-build-debug/Q2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/cmake-build-debug/Q2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/fileReader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/fileReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/quickFind.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/quickFind.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/quickFind.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/quickFind.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/quickUnion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/quickUnion.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/quickUnion.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/quickUnion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/weightedQuickUnion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/weightedQuickUnion.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q2/weightedQuickUnion.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Q2/weightedQuickUnion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/fileReader.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/Q4.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/Q4" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/Q4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/cmake-build-debug/Q4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/cmake-build-debug/Q4.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/fileReader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/fileReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Q4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Q4/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.h" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/Algorithm.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/Algorithm.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/fileReader.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Q5.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Q5" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Q5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Q5.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Q5.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileReader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XJO89waq2AeVr68m3t6958sTOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Q5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Q5" TARGET_NAME="Q5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Q5" RUN_TARGET_NAME="Q5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b64b51b-4972-4e05-89ea-ad97238477a8" name="Default Changelist" comment="" />
+      <created>1580760568854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580760568854</updated>
+      <workItem from="1580760570414" duration="1646000" />
+      <workItem from="1580854814296" duration="71000" />
+      <workItem from="1580860243245" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1580860504792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580860504792" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580762284172" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1580860504791">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580860504791" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580762284171" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1580860504790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580860504790" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580762284170" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1580860504792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580860504792" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580762284171" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580854814428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580854814428" />
+  </component>
+</project>
